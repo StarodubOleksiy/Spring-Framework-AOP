@@ -1,0 +1,34 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1462496262000)
++++ .idea/vcs.xml	(revision )
+@@ -2,5 +2,6 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: Main.java
+===================================================================
+--- Main.java	(date 1462496262000)
++++ Main.java	(date 1462496262000)
+@@ -1,14 +0,0 @@
+-package CalculatorLibrary;
+-
+-
+-public class Main {
+-
+-    public static void main(String[] args) throws Exception {
+-        System.out.println("Hello World!");
+-        System.out.println(new ImplementationAddSubstract().calculate("2+3"));
+-        System.out.println(new ImplementationAddSubstract().calculate("2-3"));
+-        System.out.println(new ImplementationMultiplicationDivision().calculate("2*3"));
+-        System.out.println(new ImplementationMultiplicationDivision().calculate("2/3"));
+-       // System.out.println(new ImplementationAddSubstract().calculate("2*3"));
+-    }
+-}

@@ -1,0 +1,57 @@
+2016-05-06 03:42:54 - Loading JDBC driver: org.postqresql.Driver
+2016-05-06 03:43:44 - Loading JDBC driver: org.postqresql.Driver
+2016-05-06 03:46:18 - Loading Main.execute()
+2016-05-06 03:49:42 - Loading Main.execute()
+2016-05-06 03:49:42 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 03:49:42 - Result 1458+9632 = 11090.0
+2016-05-06 03:49:42 - Result 458*632 = 289456.0
+2016-05-06 03:49:42 - Result sqrt(6561) = 81.0
+2016-05-06 03:51:59 - Loading Main.execute()
+2016-05-06 03:51:59 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 03:51:59 - Result 1458+9632 = 11090.0
+2016-05-06 03:51:59 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 03:51:59 - Result 458*632 = 289456.0
+2016-05-06 03:51:59 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 03:51:59 - Result sqrt(6561) = 81.0
+2016-05-06 03:53:50 - Loading Main.execute()
+2016-05-06 03:53:50 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 03:53:50 - Result 1458+9632 = 11090.0
+2016-05-06 03:53:50 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 03:53:50 - Result 458*632 = 289456.0
+2016-05-06 03:53:50 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 03:53:50 - Result sqrt(6561) = 81.0
+2016-05-06 03:55:11 - Loading Main.execute()
+2016-05-06 03:55:11 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 03:55:11 - Result 1458+9632 = 11090.0
+2016-05-06 03:55:11 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 03:55:11 - Result 458*632 = 289456.0
+2016-05-06 03:55:11 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 03:55:11 - Result sqrt(6561) = 81.0
+2016-05-06 14:33:07 - Loading Main.execute()
+2016-05-06 14:33:07 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 14:33:07 - Result 1458+9632 = 11090.0
+2016-05-06 14:33:07 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 14:33:07 - Result 458*632 = 289456.0
+2016-05-06 14:33:07 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 14:33:07 - Result sqrt(6561) = 81.0
+2016-05-06 14:34:24 - Loading Main.execute()
+2016-05-06 14:34:24 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 14:34:24 - Result 1458+9632 = 11090.0
+2016-05-06 14:34:24 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 14:34:24 - Result 458*632 = 289456.0
+2016-05-06 14:34:24 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 14:34:24 - Result sqrt(6561) = 81.0
+2016-05-06 14:35:06 - Loading Main.execute()
+2016-05-06 14:35:06 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 14:35:06 - Result 1458+9632 = 11090.0
+2016-05-06 14:35:06 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 14:35:06 - Result 458*632 = 289456.0
+2016-05-06 14:35:06 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 14:35:06 - Result sqrt(6561) = 81.0
+2016-05-06 15:19:45 - Loading Main.execute()
+2016-05-06 15:19:45 - Runnung new ImplementationAddSubstract().calculate(1458+9632)
+2016-05-06 15:19:45 - Result 1458+9632 = 11090.0
+2016-05-06 15:19:45 - Runnung new ImplementationMultiplicationDivision().calculate(458*632)
+2016-05-06 15:19:45 - Result 458*632 = 289456.0
+2016-05-06 15:19:45 - Runnung new ImplementationSqrt().calculate(6561)
+2016-05-06 15:19:45 - Result sqrt(6561) = 81.0
